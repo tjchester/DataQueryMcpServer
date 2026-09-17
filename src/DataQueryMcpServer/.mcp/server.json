@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "description": "MCP server exposing read-only (by default) SQL query access to SQL Server, Azure SQL, and SQLite.",
+  "name": "io.github.tjchester/DataQueryMcpServer",
+  "version": "0.1.0-beta",
+  "packages": [
+    {
+      "registryType": "nuget",
+      "identifier": "DataQueryMcpServer",
+      "version": "0.1.0-beta",
+      "transport": {
+        "type": "stdio"
+      },
+      "packageArguments": [],
+      "environmentVariables": []
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/tjchester/DataQueryMcpServer",
+    "source": "github"
+  }
+}

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DataQueryMcpServer/DataQueryMcpServer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DataQueryMcpServer.Tests/DataQueryMcpServer.Tests.csproj" />
+  </Folder>
+</Solution>
